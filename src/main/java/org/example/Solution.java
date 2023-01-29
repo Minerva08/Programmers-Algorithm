@@ -25,6 +25,7 @@ public class Solution {
 
     }
 
+
     private static int[] numbers_1(int num, int total) {
         List<Integer> answer = new ArrayList<>();
         int sum = 0;
